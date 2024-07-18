@@ -2,7 +2,7 @@ name: JoshQuinlan.co.uk CD
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   build:

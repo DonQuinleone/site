@@ -1,7 +1,7 @@
 +++
 title = 'Services'
 menu = 'main'
-weight = 2
+weight = 3
 +++
 
 # Services

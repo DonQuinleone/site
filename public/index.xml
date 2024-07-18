@@ -9,6 +9,47 @@
     <copyright>© Josh Quinlan 2024. All rights reserved.</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Music Bio Josh Quinlan, originally from Liverpool and now based in Dorset, is a multifaceted musician know for his work as a producer, baritone and engraver. As someone that has been registered blind since birth (with Oculocutaneous Albinism ), Josh has developed an extraordinary sensitivity to sound and an innate musicality, hence his choice of career!&#xA;He completed his foundational training in singing, conducting, composition and clarinet at the Royal Northern College of Music &amp;rsquo;s esteemed Junior Department , before moving to York to undertake a Bachelor&amp;rsquo;s degree in Music at the University of York , for which he gained first class honours.</description>
+      <content:encoded><![CDATA[<h1 id="music-bio">Music Bio</h1>
+<p>Josh Quinlan, originally from Liverpool and now based in Dorset, is a multifaceted musician know for his work as a producer, baritone and engraver. As someone that has been registered blind since birth (with <a href="https://www.nhs.uk/conditions/albinism/" target="_blank" >Oculocutaneous Albinism</a>
+
+), Josh has developed an extraordinary sensitivity to sound and an innate musicality, hence his choice of career!</p>
+<p>He completed his foundational training in singing, conducting, composition and clarinet at the <a href="https://www.rncm.ac.uk" target="_blank" >Royal Northern College of Music</a>
+
+&rsquo;s esteemed <a href="https://www.rncm.ac.uk/study-here/junior-rncm/" target="_blank" >Junior Department</a>
+
+, before moving to York to undertake a Bachelor&rsquo;s degree in Music at the <a href="https://www.york.ac.uk" target="_blank" >University of York</a>
+
+, for which he gained first class honours.</p>
+<p>Since then, Josh has performed with numerous top ensembles and artists, and was identified as a rising talent by <a href="https://www.glyndebourne.com" target="_blank" >Glyndebourne</a>
+
+ who selected him to receive intensive training, mentorship, and support on their <a href="https://www.glyndebourne.com/take-part/glyndebourne-academy/" target="_blank" >Glyndebourne Academ y</a>
+
+ programme - a prestigious scheme for young soloists who show &rsquo;exceptional potential'.</p>
+<p>He made his Royal Albert Hall conducting debut at the age of eighteen performing <em>Songs of Stone</em>, a work written by Josh by commission of <a href="https://liverpoolphil.com" target="_blank" >Royal Liverpool Philharmonic</a>
+
+. Other prestigious performances have included appearances at the <a href="https://www.bbc.co.uk/proms" target="_blank" >BBC Proms</a>
+
+, <a href="https://www.royalvarietycharity.org/royal-variety-performance-home" target="_blank" >Royal Variety Performance</a>
+
+, the <a href="https://www.royalalberthall.com/" target="_blank" >Royal Albert Hall</a>
+
+&rsquo;s 150th Anniversary concert, and numerous other national and international music festivals.</p>
+<p>Josh is proud to have been nurtured by numerous fantastic organisations including the likes of the <a href="https://liverpoolphil.com" target="_blank" >Royal Liverpool Philharmonic</a>
+
+ and the <a href="https://nationalyouthchoir.org.uk" target="_blank" >National Youth Choir</a>
+
+, the latter of which he now works for as a section coach and producer, as well as running their record label, <a href="https://www.nationalyouthchoir.org.uk/recordings" target="_blank" >National Youth Choir Recordings</a>
+
+.</p>
+<p>In addition to his work for National Youth Choir, Josh also maintains a busy schedule of recording sessions, concerts and other projects, alongside a flourishing career in IT.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Services</title>
       <link>http://localhost:1313/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,9 +109,9 @@
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/clients/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/clients/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>Projects I greatly enjoy the opportunities and varied experiences that a portfolio career offers. No week will ever look quite the same, and I have the fantastic opportunity to meet so many wonderful, talented people along the way.&#xA;Testimonials Here is a short selection of testimonials left by a few of my clients:&#xA;&amp;ldquo;If you are looking for professionalism, enthusiasm and proficiency in the curation of your music project, look no further than Josh Quinlan!</description>
       <content:encoded><![CDATA[<h1 id="projects">Projects</h1>
 <p>I greatly enjoy the opportunities and varied experiences that a portfolio career offers. No week will ever look quite the same, and I have the fantastic opportunity to meet so many wonderful, talented people along the way.</p>

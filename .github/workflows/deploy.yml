@@ -1,0 +1,34 @@
+name: JoshQuinlan.co.uk CD
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.129.0"
+          extended: true
+
+      - name: Clone Theme
+        run: git submodule update --init --recursive
+
+      - name: Build Hugo
+        run: |
+          cd $GITHUB_WORKSPACE
+          hugo -v
+
+      - name: Rsync Deployment
+        uses: Burnett01/rsync-deployments@5.2
+        with:
+          switches: -avzr --delete
+          path: public/
+          remote_path: /home/deploy/html/
+          remote_host: cd1.quinlan.cloud
+          remote_user: deploy
+          remote_key: $secrets.CD1_DEPLOY_SSH_PRIVKEY

@@ -1,0 +1,25 @@
+baseURL = 'https://joshquinlan.co.uk'
+languageCode = 'en-gb'
+title = 'Josh Quinlan'
+theme = "hugo-bearcub"
+copyright = "© Josh Quinlan 2024. All rights reserved."
+enableRobotsTXT = true
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+[params]
+  description = "Josh Quinlan is an audio producer, baritone vocal coach, engraver, technical analyst and system administrator based in the UK."
+  favicon = "images/favicon.png"
+  images = ["images/share.webp"]
+  title = "Josh Quinlan"
+  dateFormat = "2006-01-02"
+  hideUntranslated = false
+  themeStyle = "original"
+  generateSocialCard = true
+  madeWith = "Proudly hosted by [Quinlan Cloud](https://quinlan.cloud)"
+  [params.social]
+    twitter = "JoshNQuinlan"
+  [params.author]
+    name = "Josh Quinlan"

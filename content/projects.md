@@ -42,6 +42,7 @@ I count myself incredibly fortunate to have worked with some truly amazing indiv
 * National Youth Choir
 * Primal Scream / Bobby Gillespie
 * Ralph Allwood MBE
+* Salisbury Cathedral
 * The Swingles
 * Trinity College London
 * Wells Cathedral Choir
